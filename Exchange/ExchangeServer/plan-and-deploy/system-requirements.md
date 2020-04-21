@@ -39,6 +39,11 @@ The supported coexistence scenarios between Exchange 2019 and earlier versions o
 
 ## Supported hybrid deployment scenarios for Exchange 2019
 
+
+
+
+
+
 Exchange 2019 supports hybrid deployments with Office 365 tenants that have been upgraded to the latest version of Office 365. For more information about specific hybrid deployments, see [Hybrid deployment prerequisites](https://docs.microsoft.com/Exchange/hybrid-deployment-prerequisites).
 
 ## Network and directory server requirements for Exchange 2019
